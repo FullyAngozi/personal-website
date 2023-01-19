@@ -9,7 +9,7 @@ const Hero = () => {
             <p className=' text-xl text-gray-300'>Hey, My name is</p>
             <h1 className=' text-4xl sm:text-7xl font-bold text-gray-100'>Ochuko Angozi</h1>
             <h2 className=' text-3xl sm:text-5xl font-bold text-gray-200'>I am a Frontend developer and lover of Sports <MdSportsBasketball className=' inline-block' /></h2>
-            <p className=' text-gray-300'>I am frontend developer with a passion for building funtional and responsive web applications</p>
+            <p className=' text-gray-300'>I have a passion for building funtional and responsive web applications.</p>
         </section>
     </div>
   )
