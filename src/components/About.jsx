@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <main className=" w-full h-screen grid place-items-center bg-sky-800">
+    <main className=" w-full h-screen grid place-items-center bg-sky-800 overflow-hidden">
       <section
         className=" px-5 font-bold text-gray-100 max-w-[900px] xl:max-w-[1200px]
       "

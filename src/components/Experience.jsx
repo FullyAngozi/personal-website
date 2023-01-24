@@ -11,7 +11,7 @@ const Experience = () => {
     <div className=" bg-sky-700 text-gray-100 w-full h-screen">
       <section className=" max-w-[900px] mx-auto p-4 flex flex-col justify-center w-full h-full xl:max-w-[1200px]">
         <div>
-          <p className=" text-4xl font-bold inline border-b-4">Experience</p>
+          <p className=" text-4xl font-bold inline border-b-4">Skills</p>
           <p className=" text-2xl py-4">My Tech Stack</p>
         </div>
 

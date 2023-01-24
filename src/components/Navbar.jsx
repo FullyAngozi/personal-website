@@ -15,8 +15,8 @@ const Navbar = () => {
         <ul className={!nav ? "hidden md:flex" : ' absolute top-0 left-0 w-full h-screen bg-sky-700 flex flex-col justify-center items-center text-gray-100'}>
             <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/">Home</a></li>
             <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/about">About</a></li>
-            <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/Experience">Experience</a></li>
-            <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/work">Work</a></li>
+            <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/Experience">Skill</a></li>
+            <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/work">Experience</a></li>
             <li className=' py-6 text-4xl md:text-2xl hover:border-b-2'><a href="/contact">Contact</a></li>
         </ul>
        {!nav ? <FaBars className=' md:hidden z-10 text-gray-100 ' onClick={handleClick} size={30}/> : 

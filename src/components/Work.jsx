@@ -7,7 +7,7 @@ const Work = () => {
     <div className=" w-full h-screen bg-sky-800 md:h-screen">
       <section className=" max-w-[900px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className=" pb-8 text-gray-100">
-          <p className=" text-4xl font-bold inline border-b-4 ">Work</p>
+          <p className=" text-4xl font-bold inline border-b-4 ">Experience</p>
           <p className=" py-6">Take a look at some of my projects</p>
         </div>
 
