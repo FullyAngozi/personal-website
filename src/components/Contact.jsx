@@ -4,7 +4,7 @@ import { useState } from 'react'
 const Contact = () => {
     const [form, setForm] = useState(null)
   return (
-    <div className=' w-full h-screen bg-sky-700 flex justify-center items-center p-4'>
+    <div className=' w-full h-screen bg-sky-700 flex justify-center items-center p-4 overflow-hidden'>
         <form method='POST' action="https://getform.io/f/8690da14-5627-4584-8822-e32cbcec8141" className=' flex flex-col max-w-[600px] w-full'>
             <div className=' pb-8'>
                 <p className=' text-4xl font-bold inline border-b-4 border-gray-200 text-gray-100'>Contact</p>

@@ -12,7 +12,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className=" overflow-hidden">
+    <div className=" ">
       <Navbar />
       <Routes>
         <Route path='/' element={<Hero />} />
