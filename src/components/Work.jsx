@@ -71,12 +71,12 @@ const Work = () => {
                 Food delivery UI
               </span>
               <div className=" pt-8 text-center">
-                <a href="https://app.netlify.com/sites/helpful-twilight-ce79ec/overview" target="_blank">
+                <a href="https://helpful-twilight-ce79ec.netlify.app/" target="_blank">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/FullyAngozi/superheropro" target="_blank">
+                <a href="https://github.com/FullyAngozi/besteat-delivery" target="_blank">
                   <button className=" text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
