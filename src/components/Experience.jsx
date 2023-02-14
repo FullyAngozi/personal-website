@@ -8,11 +8,11 @@ import tailwind from "../assets/tailwind.png";
 
 const Experience = () => {
   return (
-    <div className=" bg-sky-700 text-gray-100 w-full h-screen">
+    <div className=" bg-sky-700 text-white w-full h-screen">
       <section className=" max-w-[900px] mx-auto p-4 flex flex-col justify-center w-full h-full xl:max-w-[1200px]">
-        <div>
-          <p className=" text-4xl font-bold inline border-b-4">Skills</p>
-          <p className=" text-2xl py-4">My Tech Stack</p>
+        <div className=" md:w-[50%] mt-20 ">
+          <p className=" sm:text-4xl text-2xl font-bold inline border-b-4">Skills</p>
+          <p className=" text-xl md:text-xl py-4 ">I have a deep understanding of HTML, CSS, and JavaScript and have experience with various frontend tools and frameworks, including Git, Webpack, and Babel. I am comfortable working in an Agile environment and collaborating with cross-functional teams to ensure that projects are delivered on time and to the highest standard.</p>
         </div>
 
         <div className=" w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-10">

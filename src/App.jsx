@@ -12,7 +12,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className=" ">
+    <div className=" w-full h-full">
       <Navbar />
       <Routes>
         <Route path='/' element={<Hero />} />
